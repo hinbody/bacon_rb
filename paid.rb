@@ -8,3 +8,6 @@ print "Amount: "
 amount_paid = $stdin.gets.chomp.to_f
 
 puts "You have paid #{amount_paid.round(2)} to #{creditor} for billing date #{bill_date}"
+
+# Todo
+# update the database entry for the billing date with the amount paid

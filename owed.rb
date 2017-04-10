@@ -22,3 +22,5 @@ The current billing date is => #{bill_date}
 The current due date is => #{due_date}
 The current amount due is => #{current_due}
 """
+#Todo:
+#Add the data entered to a database
